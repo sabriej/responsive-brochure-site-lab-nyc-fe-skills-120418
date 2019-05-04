@@ -1,0 +1,33 @@
+h1 {
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #eb7203;
+    text-transform: uppercase;
+}
+body {
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-size: 13px;
+    color: #4c4d4f;
+}
+div#container {
+  margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+}
+#main {
+    border: 0; 
+    width: 780px;
+    text-align: left;
+    padding: 0px;
+    margin: 10px auto 0;
+    overflow: hidden;
+}
+#main {
+    font-family: inherit;
+    font-size: 11px;
+    line-height: 14px;
+}

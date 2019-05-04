@@ -13,3 +13,4 @@ describe "The file #{SOURCE_FILE}" do
     expect(url.match(/^http.*\.surge\.sh\z/)).to be_truthy
   end
 end
+
